@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Application</title>
+        <description>Most recent changes with links to updates</description>
+        <language>en</language>
+        <item>
+            <title>Application 1.0.2</title>
+            <pubDate>Thu, 27 Mar 2025 08:57:13 -04:00</pubDate>
+            <sparkle:version>1.0.2</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:releaseNotesLink>https://jlarapr.github.io/NetSparkleUpdaterApp/release-notes.html</sparkle:releaseNotesLink>
+
+            <enclosure url="https://jlarapr.github.io/NetSparkleUpdaterApp/NetSparkleUpdaterApp-1.0.2.exe"
+                       sparkle:version="1.0.2"
+                       sparkle:shortVersionString="1.0.2"
+                       length="2454822"
+                       sparkle:os="windows"
+                       type="application/x-msdos-program"
+                       sparkle:criticalUpdate="false"
+                       sparkle:edSignature="jpu+fIXJ/ASh+2kRUYtKPPkp3p44iKmszuP8IKjTfj0vtK78rf3AacIDgV7dbn4DEQw+iUSF3tHaBLydVpvkCg=="/>
+        </item>
+    </channel>
+</rss>
