@@ -5,20 +5,20 @@
         <description>Most recent changes with links to updates</description>
         <language>en</language>
         <item>
-            <title>DemographicDataCollector 1.0.13</title>
-            <pubDate>Thu, 28 Mar 2025 02:30:00 -04:00</pubDate>
-            <sparkle:version>1.0.13</sparkle:version>
-            <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
+            <title>DemographicDataCollector 1.0.14</title>
+            <pubDate>Thu, 31 Mar 2025 02:30:00 -04:00</pubDate>
+            <sparkle:version>1.0.14</sparkle:version>
+            <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>https://applicard.github.io/Deployment/DemographicDataCollector/release-notes.html</sparkle:releaseNotesLink>
 
-            <enclosure url="https://applicard.github.io/Deployment/DemographicDataCollector/SSS-TSA-Demographic-Data-Collector_1.0.13.exe"
-                       sparkle:version="1.0.13"
-                       sparkle:shortVersionString="1.0.13"
+            <enclosure url="https://applicard.github.io/Deployment/DemographicDataCollector/SSS-TSA-Demographic-Data-Collector_1.0.14.exe"
+                       sparkle:version="1.0.14"
+                       sparkle:shortVersionString="1.0.14"
                        length="31590752"
                        sparkle:os="windows"
                        type="application/x-msdos-program"
                        sparkle:criticalUpdate="false"
-                       sparkle:edSignature="2GUcSwpi1hc/Lgr03ba9VbIgnX68/rb7hb8fiM9Gio6djdF1DYzvGBZP7f+89GHwnkqP/MasInmo7Gi3z9XwDA=="/>
+                       sparkle:edSignature="49GOPXemNGn8ZaOcOjAs1ptcnTNwcUZU5aqmQ22/KmPuB6NcnksxslwAHHWBm91T+IYXfHHuLwgZ3iM9IlXEAA=="/>
         </item>
     </channel>
 </rss>
